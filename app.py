@@ -6,7 +6,7 @@ def greet(name):
 
 
 if __name__ == "__main__":
-    user = "World, it's currently "
+    user = "World "
     print(greet(user))
 
 
